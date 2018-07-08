@@ -1,0 +1,28 @@
+{
+    "author": "Benni",
+    "dependencies": {},
+    "keywords": [],
+    "name": "roteskreuz",
+    "pebble": {
+        "displayName": "RotesKreuz",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "e4741946-53d5-4a6c-b982-1dff0b4e6e41",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
